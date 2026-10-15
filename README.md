@@ -14,6 +14,10 @@ This project was designed as a durable, 3D-printable replacement for standard wi
 ![Original Broken Screen Clip](clip_example.jpg)
 *(An example of the original clip this model is designed to replace)*
 
+## Quick Print (Ready-to-Use STL)
+If the default dimensions work for your window screens, you can skip the customization and directly download the pre-rendered file:
+* [**Download `clips.stl`**](clips.stl) - Contains both Left and Right clips, oriented and spaced for a single print job.
+
 ## Features
 * **100% Parametric:** Every dimension (arm lengths, pin height, slit width) is driven by easily adjustable variables.
 * **Auto-Nested Layout:** Automatically renders a mirrored pair (Left and Right side clips) rotated and spaced tightly together for efficient 3D printing.
