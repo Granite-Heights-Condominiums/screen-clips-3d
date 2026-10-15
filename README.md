@@ -1,12 +1,18 @@
 # OpenSCAD Window Screen Clip
 
-![Window Screen Retainer Clip](clips.png)
+![Window Screen Retainer Clips - Left and Right](clips.png)
 
 A fully parametric, 3D-printable window screen retainer clip built in OpenSCAD. 
 
 This model is designed to hold window screens securely in place. It features an L-bracket base with rounded corners, a structural support ridge to prevent the main arm from bending under tension, and a slotted, domed locking pin for a secure compression fit into the screen frame. 
 
 **By default, the script automatically generates both a Left and Right clip, nested back-to-back for easy dual-printing on a single build plate.**
+
+## Background
+This project was designed as a durable, 3D-printable replacement for standard window screen retainer clips that often snap or become brittle over time. 
+
+![Original Broken Screen Clip](clip_example.jpg)
+*(An example of the original clip this model is designed to replace)*
 
 ## Features
 * **100% Parametric:** Every dimension (arm lengths, pin height, slit width) is driven by easily adjustable variables.
