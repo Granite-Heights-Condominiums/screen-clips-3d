@@ -1,6 +1,6 @@
 # OpenSCAD Window Screen Clip
 
-![Window Screen Retainer Clip](clip.png)
+![Window Screen Retainer Clip](clips.png)
 
 A fully parametric, 3D-printable window screen retainer clip built in OpenSCAD. 
 
